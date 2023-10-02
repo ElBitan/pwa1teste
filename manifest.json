@@ -1,0 +1,43 @@
+{
+    "name": "Dev'Coffee",
+    "short_name": "DevCoffee",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "https://th.bing.com/th/id/R.5faaf8577f83e984e12f2bf474949dc7?rik=3UNZL91phZSFRw&pid=ImgRaw&r=0",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png","sizes": "128x128"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "384x384"
+      },
+      {
+        "src": "https://aqustech.com/wp-content/uploads/2020/12/Play-Store-For-PC-logo.jpg",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
